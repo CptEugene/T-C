@@ -1,0 +1,569 @@
+{
+  "A1": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B1": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C1": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D1": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E1": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F1": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G1": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A2": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B2": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C2": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D2": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E2": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F2": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G2": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A3": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B3": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C3": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D3": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E3": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F3": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G3": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A4": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B4": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C4": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D4": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E4": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F4": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G4": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A5": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B5": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C5": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D5": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E5": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F5": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G5": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A6": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B6": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C6": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D6": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E6": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F6": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G6": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A7": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B7": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C7": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D7": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E7": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F7": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G7": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A8": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B8": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C8": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D8": {
+    "type": "성",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E8": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F8": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G8": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "A9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "B9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "C9": {
+    "type": "마을",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "D9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "E9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "F9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  },
+  "G9": {
+    "type": "도시",
+    "owner": "중립",
+    "unit": null,
+    "unit_size": 0,
+    "buildings": [],
+    "resource_bonus": null,
+    "enemy_presence": false
+  }
+}

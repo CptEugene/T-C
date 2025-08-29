@@ -1,0 +1,9 @@
+{
+  "background": "data/map/S1_Map.png",
+  "size": [1400, 900],
+  "cities": {
+    "서경": { "pos": [0.08, 0.12], "coord": "B2", "capital": true },
+    "가평": { "pos": [0.12, 0.18], "coord": "C2" }
+  },
+  "routes": [["서경","가평"]]
+}

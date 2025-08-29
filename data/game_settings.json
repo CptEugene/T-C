@@ -1,0 +1,22 @@
+{
+  "season_number": 1,
+  "current_turn": 56,
+  "auto_rest": {
+    "enabled": true,
+    "min": 15,
+    "max": 35,
+    "bonus_if_reserved": 1.5
+  },
+  "auto_recruit_from_pending": true,
+  "announce_channel": 1397905436413267998,
+  "season": "1",
+  "nation_tiles": {
+    "RED": "🟥",
+    "BLUE": "🟦"
+  },
+  "nation_capitals": {
+    "RED": "⭐",
+    "BLUE": "☆"
+  },
+  "neutral_tile": "🟩"
+}

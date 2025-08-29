@@ -1,0 +1,21 @@
+{
+    "id": 1375685415469711470,
+    "commander_name": "Cpt_Eugene",
+    "season": "해상",
+    "level": 1,
+    "exp": 0,
+    "hp": 100,
+    "supply": 10000,
+    "atk": 1000,
+    "stats": {
+        "무력": 1,
+        "정찰": 1,
+        "기술": 1,
+        "통솔": 1
+    },
+    "location": "F9",
+    "국가": "봇테스트서버",
+    "unit_status": {},
+    "units": [],
+    "last_move_turn": 2
+}
